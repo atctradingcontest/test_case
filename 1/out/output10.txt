@@ -1,0 +1,1 @@
+Date: 2025-01-10, Open: 123, High: 130, Low: 120, Close: 128
